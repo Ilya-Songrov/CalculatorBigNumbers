@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Picture">
+        <file>Number.png</file>
+        <file>Scores(1).png</file>
+        <file>Elevate2.png</file>
+        <file>Remove.png</file>
+        <file>Remove2.png</file>
+    </qresource>
+</RCC>
